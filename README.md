@@ -1,4 +1,4 @@
-# abtestdemo
+# ABtestdemo
 ## Overview
 During today's demonstration, we will delve into the intricacies of constructing a machine learning (ML) model and subsequently conducting AB testing using Databricks. To provide a contextual framework for our demo, let us consider the scenario of Airbnb:
 
@@ -14,3 +14,7 @@ An A/B test, also called a controlled experiment or a randomized control trial, 
 Today, A/B tests are an important business tool, used to make decisions in areas like product pricing, website design, marketing campaign design, and brand messaging. A/B testing lets organizations quickly experiment and iterate in order to continually improve their business.
 
 In data science, A/B tests can also be used to choose between two models in production, by measuring which model performs better in the real world. In this formulation, the control is often an existing model that is currently in production. The treatment is a new model being considered to replace the old one. We would like to using A/B test to test the effectiveness of these two model on the organization OEC (overall evaulation criteria).
+
+## Medium Blogs
+- [Building ML Predictive Models and Managing AB Testing with Databricks - Part I](https://levelup.gitconnected.com/building-ml-predictive-models-and-managing-ab-testing-with-databricks-76460834d6a3)
+- [Building ML Predictive Models and Managing AB Testing with Databricks - Part II](https://medium.com/p/54ab87816d4d)
